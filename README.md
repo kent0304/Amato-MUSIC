@@ -11,3 +11,6 @@
 
 ## コンテナの終了方法
 ```docker-compose stop``` 
+
+## プレゼンテーション
+[https://docs.google.com/presentation/d/1EPvmsvq_bn1h13WbCF4yjEuugdT3LXEZLBAA4-_6YVM/edit?usp=sharing](https://docs.google.com/presentation/d/1EPvmsvq_bn1h13WbCF4yjEuugdT3LXEZLBAA4-_6YVM/edit?usp=sharing)
